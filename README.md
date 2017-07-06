@@ -1,2 +1,3 @@
 # dred
-Water consumption and withdrawl tracker! 
+## Water consumption and withdrawl tracker! 
+Backstory: At work I find myself going to the bathroom a lot, which makes me think am i drinking a lot of water or is my bladder so small?? I also find that I can never tell how much water I drink because I am refill my water bottle at inconsitently withouth fully drinking it to make sure my water is overall <i> cool </i> enough to drink. I thought to myself why not create some sort of tracker, and do some research about how often the <b> average </b> human being pees and drinks water! [since different regions probably have different stats, I will try to focus it on North America or Canada]
