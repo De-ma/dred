@@ -73,11 +73,16 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Just Peed"/>
                             </button>
+                            <pickerView contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="FSS-cF-QE6" userLabel="amountPicker">
+                                <rect key="frame" x="8" y="258" width="141" height="51"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                            </pickerView>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <gestureRecognizers/>
                     </view>
                     <connections>
+                        <outlet property="drankPick" destination="FSS-cF-QE6" id="jGv-Yp-WMM"/>
                         <outlet property="drinkbtn" destination="JbK-3X-jiK" id="jor-zi-ubC"/>
                         <outlet property="drinkcntr" destination="tLL-RM-vvf" id="Ebu-8w-2iX"/>
                         <outlet property="peebtn" destination="fp5-Pe-6Ac" id="iaX-ca-MWR"/>
