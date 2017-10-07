@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var drinkbtn: UIButton!
     @IBOutlet weak var peecntr: UILabel!
     @IBOutlet weak var drinkcntr: UILabel!
+    
     public var peeCount = 0;
     public var drinkCount: Double = 0.0;
     
